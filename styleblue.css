@@ -1,0 +1,53 @@
+body {
+    background-color: skyblue;
+}
+
+.hi {
+    color: white;
+    text-shadow: 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    font-size: 40px;
+
+}
+
+#link1 {
+    color: white;
+    text-decoration: none;
+}
+
+.hu {
+    display: block;
+    font-size: 30px;
+}
+
+.ho {
+    display: flex;
+    gap: 100px;
+    height: 300px;
+    justify-content: space-evenly;
+    max-width: 150%;
+}
+
+.ab {
+    justify-content: center;
+    display: flex;
+}
+
+.bb {
+    margin-left: 20%;
+}
+
+.bc {
+    margin-left: 20%;
+}
+
+.be {
+    margin-left: 16%;
+}
+
+.bf {
+    margin-left: 10%;
+}
+
+.bg {
+    margin-left: 24%;
+}
